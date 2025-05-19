@@ -1,5 +1,7 @@
 #🎓 BiblioTech — Application de Gestion de Bibliothèque Universitaire
-BiblioTech est une application web conçue pour faciliter la gestion numérique des bibliothèques scolaires et universitaires. Elle permet aux responsables de bibliothèque de gérer efficacement les livres, les lecteurs, les emprunts ainsi que leur propre compte utilisateur via une interface intuitive.
+
+BiblioTech est une application web conçue pour faciliter la gestion numérique des bibliothèques scolaires et universitaires.
+Elle permet aux responsables de bibliothèque de gérer efficacement les livres, les lecteurs, les emprunts ainsi que leur propre compte utilisateur via une interface intuitive.
 
 🚀 Fonctionnalités principales
 🔐 Authentification sécurisée des utilisateurs
